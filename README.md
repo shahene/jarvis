@@ -24,7 +24,7 @@ A Python-based voice assistant that uses:
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/jarvis.git
+git clone https://github.com/shahene/jarvis.git
 cd jarvis
 
 # Create virtual environment
